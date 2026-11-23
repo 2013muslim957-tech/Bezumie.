@@ -1,0 +1,3 @@
+{ "type": "minecraft:crafting_shapeless",
+  "ingredients": [ {"item":"minecraft:netherite_sword"}, {"item":"minecraft:lightning_rod"}, {"item":"minecraft:tnt"} ],
+  "result": { "item": "bezumie:crazy_sword", "count": 1 } }

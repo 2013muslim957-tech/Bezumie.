@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "bezumie",
+  "version": "${version}",
+  "name": "Bezumie (Безумие)",
+  "description": "МЕГА БЕЗУМНЫЙ мод: ядерка, безумный дом, жезл хаоса, меч молний и многое другое.",
+  "authors": ["Claude"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.bezumie.Bezumie"] },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
